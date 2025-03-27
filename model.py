@@ -3,7 +3,7 @@ from langchain import LLMChain, PromptTemplate
 from langchain_groq import ChatGroq
 import os
 
-# Set API Key (Replace with your actual API Key)
+# Set API Key
 os.environ["GROQ_API_KEY"] = "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"
 
 # Initialize memory
